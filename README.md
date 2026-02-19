@@ -16,7 +16,7 @@
 
 <hr>
 
-<h2>🔗 Redes Sociales </h2>
+<h2>🔗 Mis Redes Sociales </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jairomatias0811/" target="_blank">
