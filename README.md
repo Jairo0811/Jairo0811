@@ -21,19 +21,27 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jairomatias0811/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+     src="https://skillicons.dev/icons?i=linkedin"
+    alt="Linkedin"
     />
   </a>
 </p>
 
 <hr>
+<h2>Tecnologias y/o Lenguajes que he utilizado</h2>
+<p align="left">
+  <img
+     src="https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,dotnet,cpp,py,java,wordpress"
+    alt="Languages and tools"
+  />
+</p>
 
-<h2>🛠️ Languages &amp; Tools</h2>
+
+<h2>🛠️ Software y Herramientas</h2>
 
 <p align="left">
   <img
-     src="https://skillicons.dev/icons?i=angular,cs,dotnet,wordpress,html,css,js,ts,github"
+     src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,eclipse,discord,kali,firebase"
     alt="Languages and tools"
   />
 </p>
