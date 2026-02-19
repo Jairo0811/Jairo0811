@@ -1,50 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jairo Matías</h1>
-<h3 align="center">Frontend Developer | .NET | Angular | SQL Server</h3>
+<h1 align="center">Francis Jairo Matías Rosario </h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jairo0811&label=Profile%20views&color=0e75b6&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Jairo0811&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
----
+<hr>
 
+<ul>
+  <li>📫 Contacto: <strong>jairo_1829@hotmail.com</strong></li>
+</ul>
 
-- 💬 Pregúntame sobre **.NET, Angular, SQL Server**
-- 📫 Contacto: **jairo_1829@hotmail.com**
+<hr>
 
----
-
-## 🔗 Connect with me
+<h2>🔗 Contactame </h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jairomatias0811/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
----
+<hr>
 
-## 🛠️ Languages & Tools
+<h2>🛠️ Languages &amp; Tools</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sql,docker,git,github" />
+  <img
+     src="https://skillicons.dev/icons?i=angular,cs,dotnet,wordpress,html,css,js,ts,github"
+    alt="Languages and tools"
+  />
 </p>
 
----
+<hr>
 
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jairo0811&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jairo0811&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jairo0811&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jairo0811&theme=dark&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
----
+<hr>
 
-## 🧠 Currently
+<h2>🧠 Currently</h2>
 
-- 🚀 Construyendo proyectos **Full Stack**
-- 📘 Fortaleciendo backend con **.NET**
-- 🌐 Mejorando arquitectura frontend con **Angular**
+  <ul>
+        <li>🚀 Construyendo proyectos <strong>Frontend</strong></li>
+        <li>📘 Fortaleciendo mis conocimientos en Frontend</li>
+      </ul>
+
