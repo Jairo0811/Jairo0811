@@ -31,7 +31,7 @@
 <h2>Tecnologias y/o Lenguajes que he utilizado</h2>
 <p align="left">
   <img
-     src="https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,dotnet,cpp,py,java,wordpress"
+     src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,cs,dotnet,cpp,py,java,wordpress"
     alt="Languages and tools"
   />
 </p>
