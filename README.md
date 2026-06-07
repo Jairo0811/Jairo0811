@@ -41,7 +41,7 @@
 
 <p align="left">
   <img
-     src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,eclipse,discord,kali,firebase"
+     src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,eclipse,discord,kali,firebase"
     alt="Languages and tools"
   />
 </p>
