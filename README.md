@@ -165,14 +165,7 @@
 
 ---
 
-## 📈 Actividad en GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jairo0811&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo0811&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
-
-<img src="https://streak-stats.demolab.com?user=Jairo0811&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
 
 </div>
 
