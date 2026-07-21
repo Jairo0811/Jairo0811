@@ -123,8 +123,6 @@
   <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
 </p>
 
-<p>Herramienta utilizada: <strong>Kali Linux</strong>.</p>
-
 ---
 
 ## 🚀 Proyectos destacados
