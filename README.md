@@ -26,14 +26,10 @@
   <a href="https://www.linkedin.com/in/jairomatias0811/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
- <a href="https://open.spotify.com/user/21yzrgc5vp7dzscsxbk7i5juq?si=766197dafc244886">
+  <a href="https://open.spotify.com/user/21yzrgc5vp7dzscsxbk7i5juq?si=766197dafc244886">
     <img src="https://skillicons.dev/icons?i=Sp" alt="Spotify" />
   </a>
-  
 </p>
-
-
-
 
 ---
 
@@ -112,7 +108,7 @@
 ### Herramientas, plataformas e infraestructura
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,kali" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker y Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman y Docker" />
 </p>
 
 <p>
@@ -120,6 +116,14 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
 </p>
+
+### Hacking ético
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+</p>
+
+<p>Herramienta utilizada: <strong>Kali Linux</strong>.</p>
 
 ---
 
