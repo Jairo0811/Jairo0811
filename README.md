@@ -55,7 +55,7 @@
 ### Frontend y diseño de interfaces
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" alt="React, Angular, Bootstrap y Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind" alt="React, Angular, Bootstrap y Tailwind CSS" />
 </p>
 
 <p>
