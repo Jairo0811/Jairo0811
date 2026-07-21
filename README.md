@@ -139,7 +139,7 @@
       <p><strong>Sistema empresarial · Gestión administrativa · Base de datos</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/CalculadoraPrestamos">💰 Calculadora de Préstamos</a></h3>
+      <h3><a href="https://github.com/Jairo0811/CalculadoraPrestamos">💰 Loan Calc RD</a></h3>
       <p>Aplicación para calcular préstamos, cuotas, intereses y amortización, diseñada para facilitar la evaluación de escenarios financieros.</p>
       <p><strong>C# · .NET · Lógica financiera</strong></p>
     </td>
