@@ -9,9 +9,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/jairomatias0811/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jairo%20Matías-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
   <a href="mailto:jairo_1829@hotmail.com">
     <img src="https://img.shields.io/badge/Correo-Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Correo electrónico" />
   </a>
@@ -19,6 +17,15 @@
 </p>
 
 </div>
+
+### Redes Sociales
+  <a href="https://www.instagram.com/jairo_matias0811/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jairomatias0811/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
 ---
 
@@ -93,7 +100,7 @@
 
 ---
 
-## 🎯 En qué estoy trabajando
+## 🎯 ¿En qué estoy trabajando?
 
 - Construcción y modernización de sistemas empresariales y proyectos académicos.
 - Desarrollo con **.NET, React, Angular, TypeScript, Python y SQL Server**.
