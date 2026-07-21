@@ -1,74 +1,136 @@
-<h1 align="center">Francis Jairo Matías Rosario </h1>
-<h3 align="center">Frontend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Jairo0811&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+# 👋 Hola, soy Jairo Matías
+
+### Ingeniero de Software en formación · Desarrollador Full Stack · Creador de soluciones digitales
+
+<p>
+  Desarrollo aplicaciones web, sistemas empresariales y proyectos de software enfocados en resolver problemas reales mediante código limpio, arquitecturas mantenibles y buenas prácticas de desarrollo.
 </p>
 
-<hr>
-
-<ul>
-  <li>📫 Contacto: <strong>jairo_1829@hotmail.com</strong></li>
-</ul>
-
-<hr>
-
-<h2>🔗 Mis Redes Sociales </h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jairomatias0811/" target="_blank">
-    <img
-     src="https://skillicons.dev/icons?i=linkedin"
-    alt="Linkedin"
-    />
+<p>
+  <a href="https://www.linkedin.com/in/jairomatias0811/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jairo%20Matías-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:jairo_1829@hotmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Correo electrónico" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jairo0811&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas del perfil" />
 </p>
 
-<hr>
-<h2>Tecnologias y/o Lenguajes que he utilizado</h2>
-<p align="left">
-  <img
-     src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,cs,dotnet,cpp,py,java,wordpress"
-    alt="Languages and tools"
-  />
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 💼 Técnico en Programación en el **Ministerio de Deportes y Recreación de la República Dominicana**.
+- 🎓 Tecnólogo en Desarrollo de Software por el **ITLA**.
+- 📚 Estudiante de **Ingeniería de Software en UNAPEC**.
+- 🧩 Interesado en sistemas empresariales, aplicaciones web, APIs REST, bases de datos y arquitectura de software.
+- 🚀 Transformo proyectos académicos y sistemas heredados en aplicaciones modernas con calidad de portafolio o producto comercial.
+- 🌎 Basado en República Dominicana y abierto a oportunidades de trabajo remoto.
+
+---
+
+## 🧰 Stack tecnológico
+
+### Lenguajes y frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,ts,html,css,react,angular" alt="Lenguajes y frontend" />
 </p>
 
+### Backend, datos y servicios
 
-<h2>🛠️ Software y Herramientas</h2>
-
-<p align="left">
-  <img
-     src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,eclipse,discord,kali,firebase"
-    alt="Languages and tools"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mysql,sqlite" alt="Backend y bases de datos" />
 </p>
 
-<hr>
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jairo0811&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub stats"
-  />
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jairo0811&theme=dark&hide_border=true"
-    alt="GitHub streak"
-  />
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,eclipse,docker" alt="Herramientas de desarrollo" />
 </p>
 
-<hr>
+---
 
-<h2>🧠 Currently</h2>
+## 🚀 Proyectos destacados
 
-  <ul>
-        <li>🚀 Construyendo proyectos <strong>Frontend</strong></li>
-        <li>📘 Fortaleciendo mis conocimientos en Frontend</li>
-      </ul>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jairo0811/PySL">🐍 PySL</a></h3>
+      <p>Entorno educativo de programación reconstruido con Python. Incluye editor, intérprete seguro basado en AST, conversión PySL ↔ Python, laboratorios, juegos y persistencia con SQLite.</p>
+      <p><strong>Python · SQLite · Arquitectura modular</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jairo0811/RentCarRD">🚘 RentCarRD</a></h3>
+      <p>Sistema moderno de gestión para alquiler de vehículos, evolucionado desde un proyecto académico hacia una solución más completa y profesional.</p>
+      <p><strong>Aplicación empresarial · Gestión de datos</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jairo0811/SalesIntel-DW">📊 SalesIntel DW</a></h3>
+      <p>Proyecto de inteligencia de negocios y Data Warehouse orientado al análisis de ventas, integración de datos y generación de indicadores.</p>
+      <p><strong>SQL Server · Data Warehouse · Business Intelligence</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jairo0811/AngularStudio">🅰️ Angular Studio</a></h3>
+      <p>Proyecto enfocado en el desarrollo y práctica de componentes, estructuras y funcionalidades modernas con Angular y TypeScript.</p>
+      <p><strong>Angular · TypeScript · Frontend</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jairo0811/CineRD">🎬 CineRD</a></h3>
+      <p>Aplicación orientada a la gestión y experiencia digital relacionada con contenido cinematográfico.</p>
+      <p><strong>Desarrollo web · UI/UX · Gestión de contenido</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jairo0811/SistemaBibliotecario">📚 Sistema Bibliotecario</a></h3>
+      <p>Sistema de escritorio para administrar libros, usuarios, préstamos y operaciones fundamentales de una biblioteca.</p>
+      <p><strong>C# · .NET · Aplicación de escritorio</strong></p>
+    </td>
+  </tr>
+</table>
 
+---
+
+## 🎯 En qué estoy trabajando
+
+- Construcción y modernización de sistemas empresariales y proyectos académicos.
+- Desarrollo con **.NET, React, Angular, TypeScript, Python y SQL Server**.
+- Aplicación de **Clean Code, SOLID, arquitectura modular y separación de responsabilidades**.
+- Diseño de productos digitales con potencial para portafolio profesional o comercialización.
+
+---
+
+## 📈 Actividad en GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jairo0811&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo0811&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+
+<img src="https://streak-stats.demolab.com?user=Jairo0811&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Mi enfoque
+
+> Crear software que funcione correctamente, sea fácil de mantener y pueda evolucionar desde una idea hasta convertirse en una solución profesional.
+
+</div>
