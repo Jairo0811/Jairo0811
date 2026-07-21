@@ -123,6 +123,10 @@
   <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
+
 ---
 
 ## 🚀 Proyectos destacados
