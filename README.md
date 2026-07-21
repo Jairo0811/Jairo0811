@@ -2,7 +2,7 @@
 
 # Francis Jairo Matías Rosario
 
-### Ingeniero de Software en formación · Desarrollador Full Stack · Creador de soluciones digitales
+### Ingeniero de Software en formación · Desarrollador Web Jr. · Creador de soluciones digitales
 
 <p>
   Desarrollo aplicaciones web, sistemas empresariales y proyectos de software enfocados en resolver problemas reales mediante código limpio, arquitecturas mantenibles y buenas prácticas de desarrollo.
