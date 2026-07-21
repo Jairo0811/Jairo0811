@@ -44,7 +44,7 @@
 ### Backend, datos y servicios
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mysql,sqlite" alt="Backend y bases de datos" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mysql,sqlite,wordpress" alt="Backend, datos y servicios" />
 </p>
 
 <p>
@@ -54,10 +54,10 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-### Herramientas
+### Herramientas y plataformas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,eclipse,docker" alt="Herramientas de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,eclipse,docker,kali,wordpress" alt="Herramientas y plataformas" />
 </p>
 
 ---
@@ -67,26 +67,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/PySL">🐍 PySL</a></h3>
-      <p>Entorno educativo de programación reconstruido con Python. Incluye editor, intérprete seguro basado en AST, conversión PySL ↔ Python, laboratorios, juegos y persistencia con SQLite.</p>
-      <p><strong>Python · SQLite · Arquitectura modular</strong></p>
+      <h3><a href="https://github.com/Jairo0811/EdificiosOliva">🏢 Edificios Oliva</a></h3>
+      <p>Sistema orientado a la gestión de edificios, residenciales, apartamentos, propietarios y procesos administrativos relacionados.</p>
+      <p><strong>Sistema empresarial · Gestión administrativa · Base de datos</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/RentCarRD">🚘 RentCarRD</a></h3>
-      <p>Sistema moderno de gestión para alquiler de vehículos, evolucionado desde un proyecto académico hacia una solución más completa y profesional.</p>
-      <p><strong>Aplicación empresarial · Gestión de datos</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/SalesIntel-DW">📊 SalesIntel DW</a></h3>
-      <p>Proyecto de inteligencia de negocios y Data Warehouse orientado al análisis de ventas, integración de datos y generación de indicadores.</p>
-      <p><strong>SQL Server · Data Warehouse · Business Intelligence</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/AngularStudio">🅰️ Angular Studio</a></h3>
-      <p>Proyecto enfocado en el desarrollo y práctica de componentes, estructuras y funcionalidades modernas con Angular y TypeScript.</p>
-      <p><strong>Angular · TypeScript · Frontend</strong></p>
+      <h3><a href="https://github.com/Jairo0811/CalculadoraPrestamos">💰 Calculadora de Préstamos</a></h3>
+      <p>Aplicación para calcular préstamos, cuotas, intereses y amortización, diseñada para facilitar la evaluación de escenarios financieros.</p>
+      <p><strong>C# · .NET · Lógica financiera</strong></p>
     </td>
   </tr>
   <tr>
@@ -96,9 +84,9 @@
       <p><strong>Desarrollo web · UI/UX · Gestión de contenido</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/SistemaBibliotecario">📚 Sistema Bibliotecario</a></h3>
-      <p>Sistema de escritorio para administrar libros, usuarios, préstamos y operaciones fundamentales de una biblioteca.</p>
-      <p><strong>C# · .NET · Aplicación de escritorio</strong></p>
+      <h3>🔎 Más proyectos</h3>
+      <p>Explora el resto de mis repositorios para conocer otros sistemas, herramientas, proyectos académicos modernizados y experimentos tecnológicos.</p>
+      <p><strong><a href="https://github.com/Jairo0811?tab=repositories">Ver todos los repositorios →</a></strong></p>
     </td>
   </tr>
 </table>
