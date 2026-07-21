@@ -9,7 +9,6 @@
 </p>
 
 <p>
-
   <a href="mailto:jairo_1829@hotmail.com">
     <img src="https://img.shields.io/badge/Correo-Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Correo electrónico" />
   </a>
@@ -19,13 +18,15 @@
 </div>
 
 ### Redes Sociales
-  <a href="https://www.instagram.com/jairo_matias0811/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram />
-  </a>
 
+<p>
+  <a href="https://www.instagram.com/jairo_matias0811/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
   <a href="https://www.linkedin.com/in/jairomatias0811/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+</p>
 
 ---
 
@@ -42,29 +43,75 @@
 
 ## 🧰 Stack tecnológico
 
-### Lenguajes y frontend
+### Lenguajes de programación y marcado
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,ts,html,css,react,angular" alt="Lenguajes y frontend" />
+  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,js,ts,html,css" alt="C Sharp, Java, Python, C++, JavaScript, TypeScript, HTML y CSS" />
 </p>
 
-### Backend, datos y servicios
+### Frontend y diseño de interfaces
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mysql,sqlite,wordpress" alt="Backend, datos y servicios" />
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" alt="React, Angular, Bootstrap y Tailwind CSS" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Accesibilidad%20Web-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="Accesibilidad web" />
+</p>
+
+### Backend, frameworks y APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase" alt=".NET, Node.js y Firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Servlets" />
+  <img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaServer Pages" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
+</p>
+
+### Bases de datos, análisis y servicios
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL y SQLite" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/Data%20Warehouse-1F4E79?style=flat-square&logo=databricks&logoColor=white" alt="Data Warehouse" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-### Herramientas y plataformas
+### CMS y desarrollo web institucional
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,eclipse,docker,kali,wordpress" alt="Herramientas y plataformas" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Divi-6C2EB9?style=flat-square&logo=wordpress&logoColor=white" alt="Divi" />
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Internet Information Services" />
+</p>
+
+### Herramientas, plataformas e infraestructura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,kali" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker y Kali Linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
 </p>
 
 ---
