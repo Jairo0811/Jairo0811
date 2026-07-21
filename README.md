@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://open.spotify.com/user/21yzrgc5vp7dzscsxbk7i5juq?si=766197dafc244886">
-    <img src="https://skillicons.dev/icons?i=Sp" alt="Spotify" />
+    <img src="https://skillicons.dev/icons?i=Spotify" alt="Spotify" />
   </a>
 </p>
 
