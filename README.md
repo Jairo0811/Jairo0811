@@ -84,10 +84,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL y SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-1F4E79?style=flat-square&logo=databricks&logoColor=white" alt="Data Warehouse" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
