@@ -55,12 +55,13 @@
 ### Frontend y diseño de interfaces
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind" alt="React, Angular, Bootstrap y Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=angular,react,vite,bootstrap,tailwind,qt" alt="Angular, React, Vite, Bootstrap, Tailwind CSS y Qt" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
   <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/Accesibilidad%20Web-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="Accesibilidad web" />
 </p>
@@ -68,7 +69,7 @@
 ### Backend, frameworks y APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase" alt=".NET, Node.js y Firebase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django,firebase" alt=".NET, Node.js, Django y Firebase" />
 </p>
 
 <p>
@@ -90,6 +91,8 @@
 <p>
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-1F4E79?style=flat-square&logo=databricks&logoColor=white" alt="Data Warehouse" />
+  <img src="https://img.shields.io/badge/SSAS-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="SQL Server Analysis Services" />
+  <img src="https://img.shields.io/badge/MDX-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="MDX" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
@@ -105,13 +108,15 @@
   <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Internet Information Services" />
 </p>
 
-### Herramientas, plataformas e infraestructura
+### Calidad, automatización y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman y Docker" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,cmake" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker y CMake" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
@@ -135,41 +140,43 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Jairo0811/EdificiosOliva">🏢 Edificios Oliva</a></h3>
-      <p>Sistema orientado a la gestión de edificios, residenciales, apartamentos, propietarios y procesos administrativos relacionados.</p>
-      <p><strong>Sistema empresarial · Gestión administrativa · Base de datos</strong></p>
+      <p>Plataforma Full Stack para alquiler y administración de apartamentos vacacionales, con Angular, ASP.NET Core, SQL Server y Firebase Authentication.</p>
+      <p><strong>Angular · ASP.NET Core · SQL Server · Clean Architecture</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/CalculadoraPrestamos">💰 Loan Calc RD</a></h3>
-      <p>Aplicación para calcular préstamos, cuotas, intereses y amortización, diseñada para facilitar la evaluación de escenarios financieros.</p>
-      <p><strong>C# · .NET · Lógica financiera</strong></p>
+      <h3><a href="https://github.com/Jairo0811/CalculadoraPrestamos">💰 LoanCalc RD</a></h3>
+      <p>Simulador financiero dominicano para calcular préstamos, amortización, abonos extraordinarios y escenarios comparativos.</p>
+      <p><strong>Angular · TypeScript · Vitest · GitHub Actions</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Jairo0811/CineRD">🎬 CineRD</a></h3>
-      <p>Aplicación orientada a la gestión y experiencia digital relacionada con contenido cinematográfico.</p>
-      <p><strong>Desarrollo web · UI/UX · Gestión de contenido</strong></p>
+      <p>Plataforma Full Stack inspirada en IMDb para documentar películas, talentos y producciones del cine dominicano.</p>
+      <p><strong>React · Node.js · Express · SQL Server · TMDb</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 Más proyectos</h3>
-      <p>Explora el resto de mis repositorios para conocer otros sistemas, herramientas, proyectos académicos modernizados y experimentos tecnológicos.</p>
-      <p><strong><a href="https://github.com/Jairo0811?tab=repositories">Ver todos los repositorios →</a></strong></p>
+      <h3><a href="https://github.com/Jairo0811/SalesIntel-DW">📊 SalesIntel DW</a></h3>
+      <p>Solución de Business Intelligence con Data Warehouse, ETL, cubo multidimensional y dashboards ejecutivos.</p>
+      <p><strong>SQL Server · SSAS · MDX · Excel · Power BI</strong></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <strong><a href="https://github.com/Jairo0811?tab=repositories">Ver todos los repositorios →</a></strong>
+</p>
 
 ---
 
 ## 🎯 ¿En qué estoy trabajando?
 
 - Construcción y modernización de sistemas empresariales y proyectos académicos.
-- Desarrollo con **.NET, React, Angular, TypeScript, Python y SQL Server**.
+- Desarrollo con **.NET, Angular, React, TypeScript, Python, Django y SQL Server**.
 - Aplicación de **Clean Code, SOLID, arquitectura modular y separación de responsabilidades**.
 - Diseño de productos digitales con potencial para portafolio profesional o comercialización.
 
 ---
-
-
 
 </div>
 
