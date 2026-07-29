@@ -62,6 +62,8 @@
   <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Forms" />
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Blade" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
@@ -71,13 +73,18 @@
 ### Backend, frameworks y APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django,laravel,firebase" alt=".NET, Node.js, Django, Laravel y Firebase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,django,laravel,firebase" alt=".NET, Node.js, Spring, Django, Laravel y Firebase" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate ORM" />
   <img src="https://img.shields.io/badge/Eloquent%20ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Eloquent ORM" />
   <img src="https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Servlets" />
   <img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaServer Pages" />
@@ -92,6 +99,7 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-1F4E79?style=flat-square&logo=databricks&logoColor=white" alt="Data Warehouse" />
   <img src="https://img.shields.io/badge/SSAS-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="SQL Server Analysis Services" />
@@ -114,10 +122,14 @@
 ### Calidad, automatización y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,cmake,composer" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker, CMake y Composer" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,cmake,maven,composer" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker, CMake, Maven y Composer" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white" alt="Apache Ant" />
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MockMvc" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
@@ -156,9 +168,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/CineRD">🎬 CineRD</a></h3>
-      <p>Plataforma Full Stack inspirada en IMDb para documentar películas, talentos y producciones del cine dominicano.</p>
-      <p><strong>React · Node.js · Express · SQL Server · TMDb</strong></p>
+      <h3><a href="https://github.com/Jairo0811/Eventix">🎟️ Eventix</a></h3>
+      <p>Plataforma web para gestionar eventos, usuarios, reservaciones, ventas de entradas, boletas digitales y control de acceso.</p>
+      <p><strong>Java · Spring Boot · Spring Security · MySQL · Thymeleaf</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Jairo0811/SalesIntel-DW">📊 SalesIntel DW</a></h3>
@@ -177,7 +189,7 @@
 ## 🎯 ¿En qué estoy trabajando?
 
 - Construcción y modernización de sistemas empresariales y proyectos académicos.
-- Desarrollo con **.NET, PHP, Laravel, Angular, React, TypeScript, Python, Django y SQL Server**.
+- Desarrollo con **.NET, Java, Spring Boot, PHP, Laravel, Angular, React, TypeScript, Python, Django y SQL Server**.
 - Aplicación de **Clean Code, SOLID, arquitectura modular y separación de responsabilidades**.
 - Diseño de productos digitales con potencial para portafolio profesional o comercialización.
 
