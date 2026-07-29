@@ -49,7 +49,7 @@
 ### Lenguajes de programación y marcado
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,js,ts,html,css" alt="C Sharp, Java, Python, C++, JavaScript, TypeScript, HTML y CSS" />
+  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,php,js,ts,html,css" alt="C Sharp, Java, Python, C++, PHP, JavaScript, TypeScript, HTML y CSS" />
 </p>
 
 ### Frontend y diseño de interfaces
@@ -62,6 +62,8 @@
   <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Forms" />
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Blade" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/Accesibilidad%20Web-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="Accesibilidad web" />
 </p>
@@ -69,13 +71,14 @@
 ### Backend, frameworks y APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django,firebase" alt=".NET, Node.js, Django y Firebase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django,laravel,firebase" alt=".NET, Node.js, Django, Laravel y Firebase" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Eloquent%20ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Eloquent ORM" />
   <img src="https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Servlets" />
   <img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaServer Pages" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
@@ -111,12 +114,14 @@
 ### Calidad, automatización y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,cmake" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker y CMake" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman,docker,cmake,composer" alt="Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Postman, Docker, CMake y Composer" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
+  <img src="https://img.shields.io/badge/Laravel%20Pint-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Pint" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
@@ -144,9 +149,9 @@
       <p><strong>Angular · ASP.NET Core · SQL Server · Clean Architecture</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jairo0811/CalculadoraPrestamos">💰 LoanCalc RD</a></h3>
-      <p>Simulador financiero dominicano para calcular préstamos, amortización, abonos extraordinarios y escenarios comparativos.</p>
-      <p><strong>Angular · TypeScript · Vitest · GitHub Actions</strong></p>
+      <h3><a href="https://github.com/Jairo0811/RentaDrive">🚗 RentaDrive</a></h3>
+      <p>Sistema web profesional para administrar empresas de alquiler de vehículos, reservas, contratos, inspecciones, facturación, pagos y auditoría.</p>
+      <p><strong>PHP · Laravel · SQL Server · Tailwind CSS</strong></p>
     </td>
   </tr>
   <tr>
@@ -172,7 +177,7 @@
 ## 🎯 ¿En qué estoy trabajando?
 
 - Construcción y modernización de sistemas empresariales y proyectos académicos.
-- Desarrollo con **.NET, Angular, React, TypeScript, Python, Django y SQL Server**.
+- Desarrollo con **.NET, PHP, Laravel, Angular, React, TypeScript, Python, Django y SQL Server**.
 - Aplicación de **Clean Code, SOLID, arquitectura modular y separación de responsabilidades**.
 - Diseño de productos digitales con potencial para portafolio profesional o comercialización.
 
