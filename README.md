@@ -2,7 +2,9 @@
 
 # Francis Jairo Matías Rosario
 
-### Ingeniero de Software en formación · Desarrollador Web Jr. · Creador de soluciones digitales
+### Ingeniero de Software en formación 
+### Desarrollador Web Jr. 
+### Creador de soluciones digitales
 
 <p>
   Desarrollo aplicaciones web, sistemas empresariales y proyectos de software enfocados en resolver problemas reales mediante código limpio, arquitecturas mantenibles y buenas prácticas de desarrollo.
@@ -35,9 +37,9 @@
 
 ## 👨‍💻 Sobre mí
 
-- 💼 Técnico en Programación en el **Ministerio de Deportes y Recreación de la República Dominicana**.
-- 🎓 Tecnólogo en Desarrollo de Software por el **ITLA**.
-- 📚 Estudiante de **Ingeniería de Software en UNAPEC**.
+- 💼 Técnico en Programación en el **Ministerio de Deportes y Recreación de la República Dominicana (MIDEREC)**.
+- 🎓 Tecnólogo en Desarrollo de Software por el **Instituto Tecnologico de Las Americas (ITLA)**.
+- 📚 Estudiante de **Ingeniería de Software de la Universad APEC (UNAPEC)**.
 - 🧩 Interesado en sistemas empresariales, aplicaciones web, APIs REST, bases de datos y arquitectura de software.
 - 🚀 Transformo proyectos académicos y sistemas heredados en aplicaciones modernas con calidad de portafolio o producto comercial.
 - 🌎 Basado en República Dominicana y abierto a oportunidades de trabajo remoto.
